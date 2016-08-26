@@ -1,8 +1,5 @@
 /*
  * Sarah Overlander
- * CSC 3410 Fall 2015
- * Assignment #3
- * 23 September 2015
  */
 package testarray;
 
